@@ -5,7 +5,8 @@
 現在の[B.B Enterpriseのリクルートサイト](https://recruit.bbenterprise.jp/)にローディング画面。
 
 ## デモ
-https://user-images.githubusercontent.com/112611182/188097095-95083782-eb76-4eba-a640-bd9b4d1bc132.mp4
+![株式会社B B Enterprise Recruit](https://user-images.githubusercontent.com/112611182/188338889-064bf5c0-7c2e-43bd-944c-57c4a54ae12f.gif)
+
 
 
 ## 使ってる言語・フレームワーク
